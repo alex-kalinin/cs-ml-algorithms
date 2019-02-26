@@ -1,1 +1,1 @@
-# sfsu-cs665
+# CS ML Algorithms
