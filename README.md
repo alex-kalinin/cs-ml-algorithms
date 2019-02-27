@@ -1,1 +1,3 @@
-# CS ML Algorithms
+# ML Algorithms course 
+
+Contains graders for homework. 
